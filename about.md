@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Lin Chen, PhD
 
-### More Information
+### Education
 
-A place to include any other types of information that you'd like to include about yourself.
+- PhD, Tongji University, 2009/09-2015/12
+- Visiting PhD student, Rice University, 2012/09-2014/09
+- BE, Tongji University, 2005/09-2009/07
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+E-mail: l.chen.tj at gmail.com
