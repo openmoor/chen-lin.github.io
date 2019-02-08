@@ -18,6 +18,11 @@ Openmoor has been mainly developed by Dr. Lin Chen and Prof. Biswajit Basu. It i
 :---:|:---:|:---:
 Dr. [__Lin Chen__](https://chen-lin.github.io) |&nbsp;&nbsp;&nbsp;| Prof. [__Biswajit Basu__](https://www.tcd.ie/research/profiles/?profile=basub)
 
+
+### Service
+
+If you are interested in training on openmoor software for nonlinear hydrodynamics analysis of mooring cables, risers, and submerged pipes, don't hesitate to contact Prof. Basu, Trinity College Dublin, Ireland via e-mail.
+
 ### License
 
 Openmoor is under the Apache License 2.0. See the license [file](https://github.com/chen-lin/openmoor/blob/master/LICENSE).
