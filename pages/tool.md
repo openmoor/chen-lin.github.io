@@ -12,7 +12,6 @@ Openmoor is an open-source program for simulating mooring systems in offshore fl
 
 Below is an example of using openmoor to simulate the motion of a mooring cable model subjected to forced motion at the top end.
 
-
 ![]({{ site.baseurl }}/resources/case3-5.gif)
 
 ### farx
