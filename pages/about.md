@@ -14,9 +14,8 @@ Openmoor is an open-source mooring analysis program, which can be used as a stan
 
 Openmoor has been mainly developed by Dr. Lin Chen and Prof. Biswajit Basu. It is still under development.
 
+<figure><img src="{{ site.baseurl }}/resources/chen.png" width="100px" /></figure>|&nbsp;&nbsp;&nbsp;|<figure><img src="{{ site.baseurl }}/resources/basu.png" width="100px" /></figure>
 :---:|:---:|:---:
-<img src="{{ site.baseurl }}/resources/chen.png" width="100px" />|&nbsp;&nbsp;&nbsp;|
-<img src="{{ site.baseurl }}/resources/basu.png" width="100px" />
 Dr. [__Lin Chen__](https://chen-lin.github.io) |&nbsp;&nbsp;&nbsp;| Prof. [__Biswajit Basu__](https://www.tcd.ie/research/profiles/?profile=basub)
 
 ### License
