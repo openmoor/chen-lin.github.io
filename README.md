@@ -1,4 +1,4 @@
-A personal website made using Jekyll Now ([Jekyll Repository](http://www.jekyllnow.com))
+Openmoor website made using Jekyll Now ([Jekyll Repository](http://www.jekyllnow.com))
 
 # License
 
