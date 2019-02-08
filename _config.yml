@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Lin Chen
+name: openmoor
 
 # Short bio or description (displayed in the header)
-description: Learner & researcher
+description: Mooring analysis
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars1.githubusercontent.com/u/25460871?s=400&u=2fa45b9f5ab4737b89294837940cfd88b7f3341e&v=4
+avatar: 
 
 #
 # Flags below are optional
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: chen-lin
+  github: openmoor
   instagram:
   linkedin:
   pinterest:
