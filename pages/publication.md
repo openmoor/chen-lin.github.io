@@ -25,7 +25,7 @@ permalink: /publication/
 
 ### Cite in bibtex format
 
-`
+```
 @article{chen2019wave,
   title={Wave-current interaction effects on structural responses of floating offshore wind turbines},
   author={Chen, Lin and Basu, Biswajit},
@@ -97,4 +97,4 @@ permalink: /publication/
   address={Galway, Ireland},
   year={2018}
 }
-`
+```
