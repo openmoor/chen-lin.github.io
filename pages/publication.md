@@ -26,7 +26,7 @@ permalink: /publication/
 
 
 ### Bibtex format
-````
+~~~~
 @inproceedings{chen2018harmonic,
   title={Harmonic balance analysis of mooring cables},
   author={L. Chen, B. Basu, S.R.K. Nielsen},
@@ -34,4 +34,4 @@ permalink: /publication/
   pages={3354},
   year={2018}
 }
-````
+~~~~
