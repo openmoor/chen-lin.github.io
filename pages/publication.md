@@ -23,8 +23,9 @@ permalink: /publication/
 3. Chen, L. & Basu, B. (2017). Fatigue Load Estimation for a Spar-type Floating Offshore Wind Turbine using Frequency Domain Method. In _Proceedings of IUTAM Symposium on Multi-scale Fatigue_, Fracture & Damage of Materials in Harsh Environments, Galway, Ireland.
 
 
-### Bibtex format
-~~~~
+### Cite in bibtex format
+
+````
 @article{chen2019wave,
   title={Wave-current interaction effects on structural responses of floating offshore wind turbines},
   author={Chen, Lin and Basu, Biswajit},
@@ -96,4 +97,4 @@ permalink: /publication/
   address={Galway, Ireland},
   year={2018}
 }
-~~~~
+````
