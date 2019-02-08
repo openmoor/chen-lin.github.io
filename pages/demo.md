@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Example
-permalink: /example/
+title: Demo
+permalink: /demo/
 ---
 
 ### Validation
