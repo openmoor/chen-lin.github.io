@@ -8,7 +8,7 @@ My research is mainly focusing on understanding and controlling structural dynam
 
 Cables are efficient structural components and widely used in structural engineering, e.g., stay cables in cable-stayed bridges, suspenders in suspension bridges and transmission lines, and mooring cables in ocean engineering. They are hanging in the air or submerged in water and are particularly flexible in the transverse direction and hence subjected to problematic vibrations. Understanding and controlling their behaviors in environments typically need to deal with geometric nonlinearity and aerodynamics or hydrodynamics, and other sources of nonlinearity as well, e.g., cable-seabed interaction.
 
-
+![](https://github.com/chen-lin/chen-lin.github.io/resources/topics.jpg)
 
 
 ### Topics
@@ -34,5 +34,7 @@ Cables are efficient structural components and widely used in structural enginee
 #### Blind modal identification
 - Blind modal identification methods including independent component analysis and second-order blind identification
 - Blind model identification applied to the Donghai Bridge. The layout of accelerometers installed on the main navigation channel bridge is illustrated as below. The accelerations are used for modal identification.
+
+![](https://github.com/chen-lin/chen-lin.github.io/resources/bridgeandsensor.jpg)
 
 ### Projects
