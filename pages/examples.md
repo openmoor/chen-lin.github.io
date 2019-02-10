@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Demo
-permalink: /demo/
+title: Examples
+permalink: /examples/
 ---
 
 ### Validation
+
 ### Application
