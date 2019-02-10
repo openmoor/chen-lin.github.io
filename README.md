@@ -1,4 +1,4 @@
-Openmoor website made using Jekyll Now ([Jekyll Repository](http://www.jekyllnow.com))
+The website for the project [openmoor](https://github.com/chen-lin/openmoor) made using Jekyll Now ([Jekyll Repository](http://www.jekyllnow.com))
 
 # License
 
