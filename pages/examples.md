@@ -11,4 +11,4 @@ The input files and the output files after running openmoor can be found in the 
 
 ### Application
 
-The input files for analyzing one cable of the mooring system of the Hywind OC3 platform and for analyzing the full mooring system are provided in the folder examples/oc3/](https://github.com/chen-lin/openmoor/tree/master/examples/oc3). 
+The input files for analyzing one cable of the mooring system of the Hywind OC3 platform and for analyzing the full mooring system are provided in the folder [examples/oc3/](https://github.com/chen-lin/openmoor/tree/master/examples/oc3). 
